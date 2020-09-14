@@ -1,0 +1,273 @@
+(ExpressProject "QUESO"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S006 (3859078) [4/21/2020]-[08/17/20]")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\me0_asiago_project_20190806\schematic\oh0.olb"
+        (Type "Schematic Library"))
+      (File "C:\EMA\CISQuickStart\Schematic_Symbols\quesoLIB.OLB"
+        (Type "Schematic Library"))
+      (File "c:\ema\cisquickstart\schematic_symbols\transistor.olb"
+        (Type "Schematic Library"))
+      (File "c:\ema\cisquickstart\schematic_symbols\pca9306.olb"
+        (Type "Schematic Library"))
+      (File "c:\ema\cisquickstart\schematic_symbols\lp38691dtx.olb"
+        (Type "Schematic Library"))
+      (File "c:\ema\cisquickstart\schematic_symbols\2020-06-29_21-47-51.olb"
+        (Type "Schematic Library"))
+      (File "c:\ema\cisquickstart\schematic_symbols\74lvc1t45.olb"
+        (Type "Schematic Library"))
+      (File "..\rpi_right_angle_connector\library1.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\spb_17.2\tools\capture\library\regulator.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\queso.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (MIC69502WR
+      (FullPartName "MIC69502WR.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LTM4622
+      (FullPartName "LTM4622.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (MAX803REXR
+      (FullPartName "MAX803REXR.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (LM3880MF-1AA
+      (FullPartName "LM3880MF-1AA.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (74AHCT125
+      (FullPartName "74AHCT125.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName
+         "C:\USERS\JECAR\CMS\PROJECTS\ME0_ASIAGO_PROJECT_20190806\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ST5-50-1.50-L-D-P
+      (FullPartName "ST5-50-1.50-L-D-P.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (EN5322QI
+      (FullPartName "EN5322QI.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (EP5388
+      (FullPartName "EP5388.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\USERS\JECAR\CMS\PROJECTS\ME0_ASIAGO_PROJECT_20190806\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (INA226
+      (FullPartName "INA226.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (742C083/SM
+      (FullPartName "742C083/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MT25Q128
+      (FullPartName "MT25Q128.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (ST5-50-1.50-L-D-P_2
+      (FullPartName "ST5-50-1.50-L-D-P_2.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "0"))
+    (ST5-50-1_0.50-L-D-P_2
+      (FullPartName "ST5-50-1_0.50-L-D-P_2.Normal")
+      (LibraryName "C:\USERS\JECAR\CMS\PROJECTS\QUESO.DSN")
+      (DeviceIndex "0"))
+    (ST5-50-1_0.50-L-D-P
+      (FullPartName "ST5-50-1_0.50-L-D-P.Normal")
+      (LibraryName "C:\USERS\JECAR\CMS\PROJECTS\QUESO.DSN")
+      (DeviceIndex "0"))
+    (RPi_40pin_header
+      (FullPartName "RPi_40pin_header.Normal")
+      (LibraryName "C:\USERS\JECAR\CMS\RPI_RIGHT_ANGLE_CONNECTOR\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED_BLUE
+      (FullPartName "LED_BLUE.Normal")
+      (LibraryName
+         "C:\USERS\JECAR\CMS\PROJECTS\ME0_ASIAGO_PROJECT_20190806\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (1R1001
+      (FullPartName "1R1001.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (XC7S6-196FTBG
+      (FullPartName "XC7S6-196FTBG-5.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "4"))
+    (XC7S6-196FTBG_Full
+      (FullPartName "XC7S6-196FTBG_Full-2.Normal")
+      (LibraryName "C:\EMA\CISQUICKSTART\SCHEMATIC_SYMBOLS\QUESOLIB.OLB")
+      (DeviceIndex "1")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "ASIAGO_Config")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "Connector to ASIAGO")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "Current Sense I2C")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "Fusing Interface")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "JTAG")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "POWER")
+      (Path "Design Resources"
+         "c:\users\jecar\dropbox\projects\queso\queso.dsn" "XC7S6-196FTBG")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library"
+         "C:\EMA\CISQuickStart\Schematic_Symbols\quesoLIB.OLB"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 866"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1346 0 459")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1372 26 485")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/ASIAGO"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "Connector to ASIAGO")
+      (Page "ASIAGO Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1398 52 511")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/ASIAGO"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "Connector to ASIAGO")
+      (Page "ASIAGO Connector_2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1450 104 563")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/Current Sense"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "Current Sense I2C")
+      (Page "ASENSE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1476 130 589")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/Cheesecake"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "Fusing Interface")
+      (Page "ASIAGO_Config"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1554 208 667")
+        (Scroll "395 42")
+        (Zoom "208"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "POWER")
+      (Page "PWR_SUPPLY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1346 0 459")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/JTAG Connector"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "JTAG")
+      (Page "JTAG Chain"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1398 52 511")
+        (Scroll "-144 7")
+        (Zoom "104")
+        (Occurrence "/FPGA-1"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "XC7S6-196FTBG")
+      (Page "CONFIG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1424 78 537")
+        (Scroll "-144 7")
+        (Zoom "104")
+        (Occurrence "/FPGA-1"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "XC7S6-196FTBG")
+      (Page "Bank 14"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1450 104 563")
+        (Scroll "-164 0")
+        (Zoom "100")
+        (Occurrence "/Cheesecake/Config_Mother"))
+      (Path "C:\USERS\JECAR\DROPBOX\PROJECTS\QUESO\QUESO.DSN")
+      (Schematic "ASIAGO_Config")
+      (Page "Config_Mother")))
+  (MPSSessionName "jecar")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))
